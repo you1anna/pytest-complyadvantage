@@ -1,0 +1,3 @@
+selenium
+pytest-bdd
+pytest-print
